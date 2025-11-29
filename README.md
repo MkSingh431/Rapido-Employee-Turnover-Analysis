@@ -44,6 +44,6 @@ The implementation of the proposed retention strategies is expected to significa
 ## Portfolio & Linkedin
 For more details on my work and other projects, visit my portfolio and LinkedIn:
 
-- [Portfolio - Kunal Malviya](https://peerlist.io/kunalmalviya06)
-- [LinkedIn - Kunal Malviya](https://www.linkedin.com/in/kunal-malviya-0b6340289/)
+- [Portfolio - Motilal Das](https://portfolio-website-phi-six-62.vercel.app/)
+- [LinkedIn - Kunal Malviya](https://www.linkedin.com/in/motilal-das-42b4a9254/)
 
